@@ -11,5 +11,5 @@ git clone https://github.com/Nanarow/Database-Management-Application.git
 ## Usage
 import database to mysql workbench or something else with **`export.sql`**
 
-## Example
+## Application Screenshot
 ![file](https://github.com/Nanarow/Database-Management-Application/blob/master/applicationScreenshot.png?raw=true)
